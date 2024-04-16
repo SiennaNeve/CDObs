@@ -1,0 +1,14 @@
+DOI: 10.5281/zenodo.10976304
+
+Project Name: Cape Darnley, East Antarctica, Antarctic Bottom Water Data Collation nc files
+
+Description: The discovery of Antarctic Bottom Water formation in Cape Darnley, East Antarctica, in 2013 represents a significant advancement. This data product presents the first comprehensive ocean climatology of the Cape Darnley and western Prydz Bay region, compiled from various hydrographic sources including CTD, Argo, and Seal CTD. Consisting of three netCDF files, it includes raw compiled data points, mean values at different depth intervals, and gridded data at corresponding depths. This dataset aims to prevent repetitive and streamline data collation, conversion, and quality control efforts by providing a multi-source collated dataset up to 2023. Utilised in the referenced paper, this dataset facilitated the quantification of two dense shelf water sources from Cape Darnley, assessment of preconditioning from Prydz Bay, and characterisation of the water masses in the region. Additionally, an accompanying Jupyter Notebook ("data_prodct_cape_darnley_ocean_slices.ipynb") illustrates data access and basic plotting procedures, while supplementary Jupyter Notebooks detail figure creation methods in the referenced paper.
+
+Installation: data is .nc files and code is jupyter notebook files
+
+Associated paper: 
+
+Contact information:
+Sienna Blanckensee
+s.blanckensee@uq.net.au
+https://orcid.org/0000-0002-7774-5217
